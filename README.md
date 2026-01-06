@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-✨ Code · Learn · Mentor · Repeat ✨
+✨ Code · Learn  · Repeat ✨
 
 </div>
 
