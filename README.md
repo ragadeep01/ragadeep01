@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 `HTML` `CSS` `JavaScript` `React`
 
 ### ⚙️ Backend
-`Node.js` `Express.js` `Spring Boot`
+`Node.js` `Express.js`
 
 ### 🗄️ Databases
 `MySQL` `MongoDB`
