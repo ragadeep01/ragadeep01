@@ -39,6 +39,16 @@ Here are some ideas to get you started:
 
 ## ✨ About Me
 
+- I’m an IT undergraduate passionate about building clean, efficient, and scalable software solutions.  
+- I enjoy working across the stack — from designing responsive user interfaces to developing robust
+backend APIs and integrating databases.
+
+- I have a strong foundation in Data Structures & Algorithms and enjoy solving problems using Java.  
+Alongside full stack development, I explore Machine Learning and apply it to practical, real-world use cases.
+
+- I believe in learning by building, mentoring others, and continuously improving my technical
+and problem-solving skills.
+
 
 ---
 
@@ -80,7 +90,7 @@ Here are some ideas to get you started:
 - 🏅 Elite + Gold — Data Science for Engineers (NPTEL, Top 2%)
 - 📘 RDBMS — Spoken Tutorial, IIT Bombay  
 - ☕ Java Training — Spoken Tutorial, IIT Bombay  
-
+- ⚛️ React JS — Scaler Topics
 ---
 
 ## 📈 Achievements
